@@ -1,6 +1,4 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
-## A TodoList with React and ant-design
+# A TodoList with React and ant-design
 This is a todoList with react and ant-design
 It's has the follows feature:
 (1) Add A task which include title and content by the input
