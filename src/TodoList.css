@@ -1,0 +1,42 @@
+@import '~antd/dist/antd.css';
+ul{
+  margin: 0;
+  padding: 0;
+}
+
+input{
+  margin-top:20px;
+}
+.TodoList {
+  padding: 10px;
+  background: #AC8DAF;
+  position: relative;
+  width: 520px;
+  margin: 40px auto;
+  margin-top:50px;
+  border-radius: 5px;
+  text-align: center;
+  /* border: 1px solid red; */
+}
+.TodoList ul{
+  margin-top:5px;
+  width: 380px;
+}
+.left{
+  margin-left: 5px;
+  width:300px;
+  float: left;
+}
+.right{
+  margin-right: 5px;
+  float: right;
+}
+.clear{
+  clear: both;
+}
+
+.input{
+  margin-left: 40px;
+  width:380px;
+}
+

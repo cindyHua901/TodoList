@@ -1,0 +1,29 @@
+@import '~antd/dist/antd.css';
+.TodoItem{
+    text-align: left;
+    margin:5px 10px;
+    background: #DDB6C6;
+    border-bottom: 1px solid #fff;
+    border-radius: 3px;
+    line-height: 30px;
+    text-align: left;
+    text-indent:5px;
+    
+}
+
+.item{
+    margin: 0;
+    padding: 0;
+}
+
+.pink{
+    background: #DDB6C6;
+}
+
+.font-color{
+    color: #484c7F;
+}
+
+.line-through{
+    text-decoration: line-through;
+}
